@@ -1,3 +1,4 @@
 # hello-world
 "Hello World!"
-Syed here, I'm making my first commit!
+Syed here, I'll be starting professional school in a few months.
+I'm both excited and anxious about it!
